@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,EACI,qBAAsB,CACtB,QAAS,CACT,SACJ,CAEA,KACI,wBACJ","file":"main.ece47250.chunk.css","sourcesContent":["\r\n*{\r\n    box-sizing: border-box;\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\nbody {\r\n    background-color: hsl(0, 0%, 98%);\r\n}"]}
